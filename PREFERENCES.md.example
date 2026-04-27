@@ -1,0 +1,68 @@
+# Trip Preferences
+
+## Trip Basics
+
+- **Destination**: [City, Country — e.g., Tokyo, Japan]
+- **Dates**: YYYY-MM-DD to YYYY-MM-DD
+- **Duration**: N days
+- **Party size**: N people
+- **Home base**: [Hotel/Airbnb name and neighborhood]
+
+## Daily Schedule
+
+- **Earliest start**: 08:00
+- **Latest end**: 22:00
+- **Pace**: Packed / Moderate / Leisurely
+
+## Food & Drink
+
+### Category Targets
+
+List each food/drink category and how many times you want it across the trip:
+
+| Category | Target | Notes |
+|---|---|---|
+| Coffee | daily | Morning and/or afternoon |
+| [e.g., Ramen] | 3–4x | Vary styles |
+| [e.g., Sushi] | 1–2x | At least one omakase |
+
+### Must-Haves
+
+Dishes or food experiences that MUST appear somewhere in the trip:
+- [e.g., "At least one wagyu dinner"]
+
+### Avoid / Restrictions
+
+- [e.g., No shellfish]
+
+### Shopping
+
+Only schedule shopping for: [e.g., stationery, books, electronics — no clothing/fashion]
+
+## Sightseeing & Activities
+
+Rate each type: **must-do** / **want-to** / **nice-to-have** / **skip**
+
+| Type | Priority |
+|---|---|
+| Temples & shrines | |
+| Markets & food halls | |
+| Museums & galleries | |
+| Gardens & parks | |
+| Nightlife | |
+| [Add your own] | |
+
+## Fixed Events
+
+Pre-booked activities or events that must land on specific dates:
+
+| Date | Event | Time | Notes |
+|---|---|---|---|
+| YYYY-MM-DD | [Event name] | HH:MM | |
+
+## Special Planning Rules
+
+Any specific constraints for the planner:
+- [e.g., "One big group dinner — plan for bar-hopping, not a single venue"]
+- [e.g., "Never schedule an early start the day after a late night"]
+- [e.g., "Offer a midday break back at the home base when geography allows"]

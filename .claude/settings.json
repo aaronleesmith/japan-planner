@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv run *)",
+      "Bash(uv sync)",
+      "WebSearch",
+      "WebFetch(domain:tabelog.com)",
+      "WebFetch(domain:autoreserve.com)",
+      "WebFetch(domain:www.timeout.com)",
+      "WebFetch(domain:www.tripadvisor.com)"
+    ]
+  }
+}
