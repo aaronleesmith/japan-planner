@@ -12,9 +12,6 @@ wheels/
 # Secrets
 .env
 
-# Database (personal trip data)
-*.db
-*.db.*
 
 # Generated exports
 *.kml
